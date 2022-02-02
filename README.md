@@ -20,7 +20,7 @@ When observing this data we can see that the Average Fare per Ride and the Avera
 ### Total Fare by City Type
 The below chart and data shows the Total Fare by City Type from the months January 2019 through April 2019. This is all consistent with the Total Fares discussed above in that, there will be a higher number of Total Fares in Urban cities, Suburban would follow, and Rural would have the least Total Fares. Although the Average Fare per Ride and Drivers is higher in Rural Cities, there are far more total rides in Urban cities which results in the overall number significantly higher in Urban cities. 
 
-![This is an image](hhttps://github.com/belennlopezvega/PyBer_Challenge/blob/main/PyBer_fare_summary.png)
+![This is an image](https://github.com/belennlopezvega/PyBer_Challenge/blob/main/PyBer_fare_summary.png)
 
 ## Summary
 
